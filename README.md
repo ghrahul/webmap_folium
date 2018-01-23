@@ -11,3 +11,6 @@ Volcanos:
    If it's greater than 3000 then it's Red.
 
 
+![screenshot 80](https://user-images.githubusercontent.com/22416933/35299732-323d55d6-00ac-11e8-8250-84224bdcd080.png)
+![screenshot 81](https://user-images.githubusercontent.com/22416933/35299753-437e22da-00ac-11e8-8a1e-c3daebb55f1c.png)
+![screenshot 82](https://user-images.githubusercontent.com/22416933/35299766-50c5f2ba-00ac-11e8-9dcb-73dafc2a2d98.png)
